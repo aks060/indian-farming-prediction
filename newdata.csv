@@ -1,0 +1,526 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Arhar/Tur,10853,6995
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Bajra,214,219
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Groundnut,73,65
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Jowar,14,9
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Maize,8799,9045
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Moong(Green Gram),10,3
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Oilseeds total,1076,594
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Onion,768,7593
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Rice,202707,419064
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Sesamum,175,26
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Small millets,330,254
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Total foodgrain,453435,949679
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Urad,223,92
+Uttar Pradesh,AZAMGARH,1997,Rabi       ,Barley,4826,7810
+Uttar Pradesh,AZAMGARH,1997,Rabi       ,Gram,6927,7690
+Uttar Pradesh,AZAMGARH,1997,Rabi       ,Linseed,9,4
+Uttar Pradesh,AZAMGARH,1997,Rabi       ,Masoor,127,110
+Uttar Pradesh,AZAMGARH,1997,Rabi       ,Peas & beans (Pulses),9450,11293
+Uttar Pradesh,AZAMGARH,1997,Rabi       ,Rapeseed &Mustard,789,458
+Uttar Pradesh,AZAMGARH,1997,Rabi       ,Sunflower,30,41
+Uttar Pradesh,AZAMGARH,1997,Rabi       ,Wheat,208030,486525
+Uttar Pradesh,AZAMGARH,1997,Summer     ,Maize,163,257
+Uttar Pradesh,AZAMGARH,1997,Summer     ,Moong(Green Gram),217,116
+Uttar Pradesh,AZAMGARH,1997,Summer     ,Urad,545,197
+Uttar Pradesh,AZAMGARH,1997,Whole Year ,Potato,5599,77910
+Uttar Pradesh,AZAMGARH,1997,Whole Year ,Sugarcane,27664,1296003
+Uttar Pradesh,AZAMGARH,1998,Kharif     ,Arhar/Tur,9664,8908
+Uttar Pradesh,AZAMGARH,1998,Kharif     ,Bajra,208,258
+Uttar Pradesh,AZAMGARH,1998,Kharif     ,Groundnut,48,31
+Uttar Pradesh,AZAMGARH,1998,Kharif     ,Jowar,10,6
+Uttar Pradesh,AZAMGARH,1998,Kharif     ,Maize,8047,5904
+Uttar Pradesh,AZAMGARH,1998,Kharif     ,Moong(Green Gram),15,3
+Uttar Pradesh,AZAMGARH,1998,Kharif     ,Ragi,18,23
+Uttar Pradesh,AZAMGARH,1998,Kharif     ,Rice,199011,346646
+Uttar Pradesh,AZAMGARH,1998,Kharif     ,Sesamum,149,18
+Uttar Pradesh,AZAMGARH,1998,Kharif     ,Small millets,211,143
+Uttar Pradesh,AZAMGARH,1998,Kharif     ,Soyabean,1,1
+Uttar Pradesh,AZAMGARH,1998,Kharif     ,Urad,188,50
+Uttar Pradesh,AZAMGARH,1998,Rabi       ,Barley,4910,7338
+Uttar Pradesh,AZAMGARH,1998,Rabi       ,Gram,6656,7853
+Uttar Pradesh,AZAMGARH,1998,Rabi       ,Linseed,11,4
+Uttar Pradesh,AZAMGARH,1998,Rabi       ,Masoor,207,170
+Uttar Pradesh,AZAMGARH,1998,Rabi       ,Peas & beans (Pulses),10196,12661
+Uttar Pradesh,AZAMGARH,1998,Rabi       ,Rapeseed &Mustard,1274,1055
+Uttar Pradesh,AZAMGARH,1998,Rabi       ,Sunflower,6,7
+Uttar Pradesh,AZAMGARH,1998,Rabi       ,Wheat,212687,521201
+Uttar Pradesh,AZAMGARH,1998,Summer     ,Maize,137,139
+Uttar Pradesh,AZAMGARH,1998,Summer     ,Moong(Green Gram),164,71
+Uttar Pradesh,AZAMGARH,1998,Summer     ,Urad,362,282
+Uttar Pradesh,AZAMGARH,1998,Whole Year ,Onion,559,6750
+Uttar Pradesh,AZAMGARH,1998,Whole Year ,Potato,5675,125122
+Uttar Pradesh,AZAMGARH,1998,Whole Year ,Sannhamp,246,90
+Uttar Pradesh,AZAMGARH,1998,Whole Year ,Sugarcane,24802,1087915
+Uttar Pradesh,AZAMGARH,1998,Whole Year ,Tobacco,48,286
+Uttar Pradesh,AZAMGARH,1998,Whole Year ,Turmeric,28,52
+Uttar Pradesh,AZAMGARH,1999,Kharif     ,Arhar/Tur,9616,9371
+Uttar Pradesh,AZAMGARH,1999,Kharif     ,Bajra,192,310
+Uttar Pradesh,AZAMGARH,1999,Kharif     ,Groundnut,74,62
+Uttar Pradesh,AZAMGARH,1999,Kharif     ,Jowar,14,17
+Uttar Pradesh,AZAMGARH,1999,Kharif     ,Maize,8511,9486
+Uttar Pradesh,AZAMGARH,1999,Kharif     ,Moong(Green Gram),8,2
+Uttar Pradesh,AZAMGARH,1999,Kharif     ,Rice,203833,445549
+Uttar Pradesh,AZAMGARH,1999,Kharif     ,Small millets,161,112
+Uttar Pradesh,AZAMGARH,1999,Kharif     ,Sunflower,4,5
+Uttar Pradesh,AZAMGARH,1999,Kharif     ,Urad,148,61
+Uttar Pradesh,AZAMGARH,1999,Rabi       ,Barley,4267,7132
+Uttar Pradesh,AZAMGARH,1999,Rabi       ,Gram,5967,5177
+Uttar Pradesh,AZAMGARH,1999,Rabi       ,Linseed,3,1
+Uttar Pradesh,AZAMGARH,1999,Rabi       ,Maize,134,194
+Uttar Pradesh,AZAMGARH,1999,Rabi       ,Ragi,20,34
+Uttar Pradesh,AZAMGARH,1999,Rabi       ,Rapeseed &Mustard,1017,706
+Uttar Pradesh,AZAMGARH,1999,Rabi       ,Wheat,216884,535740
+Uttar Pradesh,AZAMGARH,1999,Summer     ,Moong(Green Gram),156,115
+Uttar Pradesh,AZAMGARH,1999,Summer     ,Rice,2,4
+Uttar Pradesh,AZAMGARH,1999,Summer     ,Urad,324,221
+Uttar Pradesh,AZAMGARH,1999,Whole Year ,Onion,730,10465
+Uttar Pradesh,AZAMGARH,1999,Whole Year ,Peas & beans (Pulses),9700,10773
+Uttar Pradesh,AZAMGARH,1999,Whole Year ,Potato,5745,71913
+Uttar Pradesh,AZAMGARH,1999,Whole Year ,Sugarcane,23194,1008753
+Uttar Pradesh,AZAMGARH,1999,Whole Year ,Tobacco,49,265
+Uttar Pradesh,AZAMGARH,1999,Whole Year ,Turmeric,7,11
+Uttar Pradesh,AZAMGARH,2000,Kharif     ,Arhar/Tur,9191,8824
+Uttar Pradesh,AZAMGARH,2000,Kharif     ,Bajra,133,104
+Uttar Pradesh,AZAMGARH,2000,Kharif     ,Groundnut,81,68
+Uttar Pradesh,AZAMGARH,2000,Kharif     ,Jowar,12,14
+Uttar Pradesh,AZAMGARH,2000,Kharif     ,Maize,7209,11912
+Uttar Pradesh,AZAMGARH,2000,Kharif     ,Moong(Green Gram),3,1
+Uttar Pradesh,AZAMGARH,2000,Kharif     ,Rice,211031,390953
+Uttar Pradesh,AZAMGARH,2000,Kharif     ,Sesamum,45,7
+Uttar Pradesh,AZAMGARH,2000,Kharif     ,Small millets,101,76
+Uttar Pradesh,AZAMGARH,2000,Kharif     ,Soyabean,1,1
+Uttar Pradesh,AZAMGARH,2000,Kharif     ,Urad,178,74
+Uttar Pradesh,AZAMGARH,2000,Rabi       ,Barley,4271,7663
+Uttar Pradesh,AZAMGARH,2000,Rabi       ,Gram,5825,7383
+Uttar Pradesh,AZAMGARH,2000,Rabi       ,Maize,186,302
+Uttar Pradesh,AZAMGARH,2000,Rabi       ,Masoor,196,170
+Uttar Pradesh,AZAMGARH,2000,Rabi       ,Moong(Green Gram),102,58
+Uttar Pradesh,AZAMGARH,2000,Rabi       ,Peas & beans (Pulses),9839,13637
+Uttar Pradesh,AZAMGARH,2000,Rabi       ,Rapeseed &Mustard,1056,1057
+Uttar Pradesh,AZAMGARH,2000,Rabi       ,Urad,267,123
+Uttar Pradesh,AZAMGARH,2000,Rabi       ,Wheat,215453,481708
+Uttar Pradesh,AZAMGARH,2000,Whole Year ,Potato,5707,105849
+Uttar Pradesh,AZAMGARH,2000,Whole Year ,Sugarcane,22517,955171
+Uttar Pradesh,AZAMGARH,2000,Whole Year ,Turmeric,2,3
+Uttar Pradesh,AZAMGARH,2001,Kharif     ,Arhar/Tur,9021,11726
+Uttar Pradesh,AZAMGARH,2001,Kharif     ,Bajra,120,142
+Uttar Pradesh,AZAMGARH,2001,Kharif     ,Groundnut,50,42
+Uttar Pradesh,AZAMGARH,2001,Kharif     ,Jowar,2,2
+Uttar Pradesh,AZAMGARH,2001,Kharif     ,Maize,7083,12671
+Uttar Pradesh,AZAMGARH,2001,Kharif     ,Moong(Green Gram),11,3
+Uttar Pradesh,AZAMGARH,2001,Kharif     ,Rice,209614,433548
+Uttar Pradesh,AZAMGARH,2001,Kharif     ,Sesamum,43,11
+Uttar Pradesh,AZAMGARH,2001,Kharif     ,Small millets,113,87
+Uttar Pradesh,AZAMGARH,2001,Kharif     ,Sunflower,1,2
+Uttar Pradesh,AZAMGARH,2001,Kharif     ,Urad,185,75
+Uttar Pradesh,AZAMGARH,2001,Rabi       ,Barley,4211,6622
+Uttar Pradesh,AZAMGARH,2001,Rabi       ,Gram,5358,4985
+Uttar Pradesh,AZAMGARH,2001,Rabi       ,Linseed,5,2
+Uttar Pradesh,AZAMGARH,2001,Rabi       ,Maize,348,567
+Uttar Pradesh,AZAMGARH,2001,Rabi       ,Masoor,161,179
+Uttar Pradesh,AZAMGARH,2001,Rabi       ,Peas & beans (Pulses),9395,10090
+Uttar Pradesh,AZAMGARH,2001,Rabi       ,Rapeseed &Mustard,1004,1023
+Uttar Pradesh,AZAMGARH,2001,Rabi       ,Urad,264,129
+Uttar Pradesh,AZAMGARH,2001,Rabi       ,Wheat,217147,518173
+Uttar Pradesh,AZAMGARH,2001,Whole Year ,Potato,5382,142817
+Uttar Pradesh,AZAMGARH,2001,Whole Year ,Sugarcane,22612,960920
+Uttar Pradesh,AZAMGARH,2001,Whole Year ,Tobacco,91,569
+Uttar Pradesh,AZAMGARH,2002,Kharif     ,Bajra,58,78
+Uttar Pradesh,AZAMGARH,2002,Kharif     ,Groundnut,49,32
+Uttar Pradesh,AZAMGARH,2002,Kharif     ,Jowar,13,14
+Uttar Pradesh,AZAMGARH,2002,Kharif     ,Maize,6414,7556
+Uttar Pradesh,AZAMGARH,2002,Kharif     ,Moong(Green Gram),2,1
+Uttar Pradesh,AZAMGARH,2002,Kharif     ,Rice,180384,303911
+Uttar Pradesh,AZAMGARH,2002,Kharif     ,Sesamum,57,9
+Uttar Pradesh,AZAMGARH,2002,Kharif     ,Small millets,112,121
+Uttar Pradesh,AZAMGARH,2002,Kharif     ,Sunflower,2,3
+Uttar Pradesh,AZAMGARH,2002,Kharif     ,Urad,156,62
+Uttar Pradesh,AZAMGARH,2002,Rabi       ,Barley,4256,5728
+Uttar Pradesh,AZAMGARH,2002,Rabi       ,Gram,4886,4398
+Uttar Pradesh,AZAMGARH,2002,Rabi       ,Linseed,7,3
+Uttar Pradesh,AZAMGARH,2002,Rabi       ,Maize,453,502
+Uttar Pradesh,AZAMGARH,2002,Rabi       ,Masoor,148,127
+Uttar Pradesh,AZAMGARH,2002,Rabi       ,Onion,67,691
+Uttar Pradesh,AZAMGARH,2002,Rabi       ,Peas & beans (Pulses),8501,8399
+Uttar Pradesh,AZAMGARH,2002,Rabi       ,Ragi,60,88
+Uttar Pradesh,AZAMGARH,2002,Rabi       ,Rapeseed &Mustard,1019,913
+Uttar Pradesh,AZAMGARH,2002,Rabi       ,Wheat,216928,434435
+Uttar Pradesh,AZAMGARH,2002,Summer     ,Moong(Green Gram),79,46
+Uttar Pradesh,AZAMGARH,2002,Summer     ,Onion,583,6518
+Uttar Pradesh,AZAMGARH,2002,Summer     ,Urad,196,104
+Uttar Pradesh,AZAMGARH,2002,Whole Year ,Potato,5352,111878
+Uttar Pradesh,AZAMGARH,2002,Whole Year ,Sannhamp,64,20
+Uttar Pradesh,AZAMGARH,2002,Whole Year ,Sugarcane,22119,933333
+Uttar Pradesh,AZAMGARH,2002,Whole Year ,Tobacco,56,330
+Uttar Pradesh,AZAMGARH,2002,Whole Year ,Turmeric,2,4
+Uttar Pradesh,AZAMGARH,2003,Kharif     ,Arhar/Tur,9720,8508
+Uttar Pradesh,AZAMGARH,2003,Kharif     ,Bajra,193,260
+Uttar Pradesh,AZAMGARH,2003,Kharif     ,Groundnut,82,55
+Uttar Pradesh,AZAMGARH,2003,Kharif     ,Jowar,15,17
+Uttar Pradesh,AZAMGARH,2003,Kharif     ,Maize,7157,9111
+Uttar Pradesh,AZAMGARH,2003,Kharif     ,Moong(Green Gram),4,1
+Uttar Pradesh,AZAMGARH,2003,Kharif     ,Rice,205352,417537
+Uttar Pradesh,AZAMGARH,2003,Kharif     ,Sesamum,70,9
+Uttar Pradesh,AZAMGARH,2003,Kharif     ,Sunflower,6,10
+Uttar Pradesh,AZAMGARH,2003,Kharif     ,Urad,151,36
+Uttar Pradesh,AZAMGARH,2003,Rabi       ,Barley,4240,7033
+Uttar Pradesh,AZAMGARH,2003,Rabi       ,Gram,4585,5326
+Uttar Pradesh,AZAMGARH,2003,Rabi       ,Linseed,3,2
+Uttar Pradesh,AZAMGARH,2003,Rabi       ,Masoor,124,157
+Uttar Pradesh,AZAMGARH,2003,Rabi       ,Onion,90,1292
+Uttar Pradesh,AZAMGARH,2003,Rabi       ,Peas & beans (Pulses),8602,10288
+Uttar Pradesh,AZAMGARH,2003,Rabi       ,Ragi,11,16
+Uttar Pradesh,AZAMGARH,2003,Rabi       ,Rapeseed &Mustard,1201,1197
+Uttar Pradesh,AZAMGARH,2003,Rabi       ,Wheat,222018,552640
+Uttar Pradesh,AZAMGARH,2003,Summer     ,Maize,458,626
+Uttar Pradesh,AZAMGARH,2003,Summer     ,Moong(Green Gram),68,41
+Uttar Pradesh,AZAMGARH,2003,Summer     ,Onion,651,6629
+Uttar Pradesh,AZAMGARH,2003,Summer     ,Urad,210,103
+Uttar Pradesh,AZAMGARH,2003,Whole Year ,Potato,5571,91359
+Uttar Pradesh,AZAMGARH,2003,Whole Year ,Sannhamp,85,26
+Uttar Pradesh,AZAMGARH,2003,Whole Year ,Sugarcane,21335,929182
+Uttar Pradesh,AZAMGARH,2003,Whole Year ,Tobacco,89,666
+Uttar Pradesh,AZAMGARH,2003,Whole Year ,Turmeric,1,2
+Uttar Pradesh,AZAMGARH,2004,Kharif     ,Bajra,92,149
+Uttar Pradesh,AZAMGARH,2004,Kharif     ,Groundnut,68,56
+Uttar Pradesh,AZAMGARH,2004,Kharif     ,Jowar,13,14
+Uttar Pradesh,AZAMGARH,2004,Kharif     ,Maize,7514,14066
+Uttar Pradesh,AZAMGARH,2004,Kharif     ,Rice,212127,187398
+Uttar Pradesh,AZAMGARH,2004,Kharif     ,Sannhamp,62,17
+Uttar Pradesh,AZAMGARH,2004,Kharif     ,Sesamum,66,10
+Uttar Pradesh,AZAMGARH,2004,Kharif     ,Small millets,54,20
+Uttar Pradesh,AZAMGARH,2004,Kharif     ,Sugarcane,19272,753998
+Uttar Pradesh,AZAMGARH,2004,Rabi       ,Barley,3604,5408
+Uttar Pradesh,AZAMGARH,2004,Rabi       ,Gram,3796,3063
+Uttar Pradesh,AZAMGARH,2004,Rabi       ,Linseed,1,1
+Uttar Pradesh,AZAMGARH,2004,Rabi       ,Maize,6,26
+Uttar Pradesh,AZAMGARH,2004,Rabi       ,Potato,5307,90851
+Uttar Pradesh,AZAMGARH,2004,Rabi       ,Rapeseed &Mustard,1195,1188
+Uttar Pradesh,AZAMGARH,2004,Rabi       ,Wheat,223364,472982
+Uttar Pradesh,AZAMGARH,2004,Summer     ,Sunflower,2,4
+Uttar Pradesh,AZAMGARH,2004,Whole Year ,Banana,8,291
+Uttar Pradesh,AZAMGARH,2004,Whole Year ,Dry chillies,38,36
+Uttar Pradesh,AZAMGARH,2004,Whole Year ,Garlic,21,91
+Uttar Pradesh,AZAMGARH,2004,Whole Year ,Guar seed,35,30
+Uttar Pradesh,AZAMGARH,2004,Whole Year ,Onion,615,7429
+Uttar Pradesh,AZAMGARH,2004,Whole Year ,Sweet potato,84,976
+Uttar Pradesh,AZAMGARH,2004,Whole Year ,Tobacco,228,998
+Uttar Pradesh,AZAMGARH,2005,Kharif     ,Bajra,445,673
+Uttar Pradesh,AZAMGARH,2005,Kharif     ,Jowar,11,14
+Uttar Pradesh,AZAMGARH,2005,Kharif     ,Maize,2987,3546
+Uttar Pradesh,AZAMGARH,2005,Kharif     ,Rice,201562,353338
+Uttar Pradesh,AZAMGARH,2005,Kharif     ,Sannhamp,97,33
+Uttar Pradesh,AZAMGARH,2005,Kharif     ,Sesamum,47,8
+Uttar Pradesh,AZAMGARH,2005,Kharif     ,Small millets,42,27
+Uttar Pradesh,AZAMGARH,2005,Kharif     ,Sugarcane,26219,1013522
+Uttar Pradesh,AZAMGARH,2005,Rabi       ,Barley,4240,7094
+Uttar Pradesh,AZAMGARH,2005,Rabi       ,Gram,4585,4845
+Uttar Pradesh,AZAMGARH,2005,Rabi       ,Linseed,3,1
+Uttar Pradesh,AZAMGARH,2005,Rabi       ,Potato,5571,167526
+Uttar Pradesh,AZAMGARH,2005,Rabi       ,Rapeseed &Mustard,1201,1393
+Uttar Pradesh,AZAMGARH,2005,Rabi       ,Turmeric,1,4
+Uttar Pradesh,AZAMGARH,2005,Rabi       ,Wheat,222018,532399
+Uttar Pradesh,AZAMGARH,2005,Summer     ,Sunflower,6,8
+Uttar Pradesh,AZAMGARH,2005,Whole Year ,Banana,1,38
+Uttar Pradesh,AZAMGARH,2005,Whole Year ,Coriander,45,26
+Uttar Pradesh,AZAMGARH,2005,Whole Year ,Dry chillies,25,23
+Uttar Pradesh,AZAMGARH,2005,Whole Year ,Garlic,25,109
+Uttar Pradesh,AZAMGARH,2005,Whole Year ,Guar seed,13,10
+Uttar Pradesh,AZAMGARH,2005,Whole Year ,Onion,807,10422
+Uttar Pradesh,AZAMGARH,2005,Whole Year ,Sweet potato,14,183
+Uttar Pradesh,AZAMGARH,2005,Whole Year ,Tobacco,81,463
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Arhar/Tur,10234,3615
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Bajra,96,148
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Dry ginger,8,25
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Groundnut,63,45
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Jowar,8,10
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Maize,7926,12127
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Other Kharif pulses,520,281
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Rice,207566,304914
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Sannhamp,83,23
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Sesamum,56,9
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Small millets,55,35
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Sugarcane,20697,842037
+Uttar Pradesh,AZAMGARH,2006,Kharif     ,Sweet potato,61,833
+Uttar Pradesh,AZAMGARH,2006,Rabi       ,Barley,3413,5996
+Uttar Pradesh,AZAMGARH,2006,Rabi       ,Garlic,57,251
+Uttar Pradesh,AZAMGARH,2006,Rabi       ,Gram,2995,3156
+Uttar Pradesh,AZAMGARH,2006,Rabi       ,Linseed,1,
+Uttar Pradesh,AZAMGARH,2006,Rabi       ,Maize,7,20
+Uttar Pradesh,AZAMGARH,2006,Rabi       ,Masoor,89,82
+Uttar Pradesh,AZAMGARH,2006,Rabi       ,Onion,82,1573
+Uttar Pradesh,AZAMGARH,2006,Rabi       ,Other  Rabi pulses,6411,6200
+Uttar Pradesh,AZAMGARH,2006,Rabi       ,Potato,3820,95034
+Uttar Pradesh,AZAMGARH,2006,Rabi       ,Rapeseed &Mustard,873,900
+Uttar Pradesh,AZAMGARH,2006,Rabi       ,Tobacco,211,1123
+Uttar Pradesh,AZAMGARH,2006,Rabi       ,Wheat,221335,542049
+Uttar Pradesh,AZAMGARH,2006,Summer     ,Maize,548,727
+Uttar Pradesh,AZAMGARH,2006,Summer     ,Onion,625,7278
+Uttar Pradesh,AZAMGARH,2006,Summer     ,Sunflower,2,3
+Uttar Pradesh,AZAMGARH,2006,Whole Year ,Coriander,73,38
+Uttar Pradesh,AZAMGARH,2006,Whole Year ,Dry chillies,24,23
+Uttar Pradesh,AZAMGARH,2006,Whole Year ,Guar seed,24,20
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Arhar/Tur,10018,6648
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Bajra,113,176
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Dry chillies,25,24
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Groundnut,63,38
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Guar seed,8,7
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Jowar,6,5
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Maize,6146,9803
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Moong(Green Gram),4,1
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Rice,215737,416372
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Sannhamp,37,7
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Sesamum,60,9
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Small millets,93,56
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Sugarcane,21399,886090
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Sweet potato,12,162
+Uttar Pradesh,AZAMGARH,2007,Kharif     ,Urad,133,58
+Uttar Pradesh,AZAMGARH,2007,Rabi       ,Barley,3842,8168
+Uttar Pradesh,AZAMGARH,2007,Rabi       ,Coriander,69,40
+Uttar Pradesh,AZAMGARH,2007,Rabi       ,Gram,4029,5115
+Uttar Pradesh,AZAMGARH,2007,Rabi       ,Masoor,120,139
+Uttar Pradesh,AZAMGARH,2007,Rabi       ,Onion,114,1593
+Uttar Pradesh,AZAMGARH,2007,Rabi       ,Other  Rabi pulses,7773,10952
+Uttar Pradesh,AZAMGARH,2007,Rabi       ,Potato,5774,121774
+Uttar Pradesh,AZAMGARH,2007,Rabi       ,Rapeseed &Mustard,1299,1503
+Uttar Pradesh,AZAMGARH,2007,Rabi       ,Turmeric,2,6
+Uttar Pradesh,AZAMGARH,2007,Rabi       ,Wheat,229059,594179
+Uttar Pradesh,AZAMGARH,2007,Summer     ,Maize,548,787
+Uttar Pradesh,AZAMGARH,2007,Summer     ,Moong(Green Gram),76,48
+Uttar Pradesh,AZAMGARH,2007,Summer     ,Onion,625,5214
+Uttar Pradesh,AZAMGARH,2007,Summer     ,Urad,197,111
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Arhar/Tur,6814,3249
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Bajra,268,446
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Dry chillies,21,21
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Groundnut,32,23
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Guar seed,25,21
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Jowar,2,2
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Maize,7140,6897
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Moong(Green Gram),3,1
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Rice,213081,419343
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Sannhamp,41,13
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Sesamum,61,10
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Small millets,38,24
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Sugarcane,21399,912282
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Sweet potato,18,221
+Uttar Pradesh,AZAMGARH,2008,Kharif     ,Urad,183,98
+Uttar Pradesh,AZAMGARH,2008,Rabi       ,Barley,3726,8755
+Uttar Pradesh,AZAMGARH,2008,Rabi       ,Coriander,45,27
+Uttar Pradesh,AZAMGARH,2008,Rabi       ,Garlic,36,212
+Uttar Pradesh,AZAMGARH,2008,Rabi       ,Gram,1719,2363
+Uttar Pradesh,AZAMGARH,2008,Rabi       ,Linseed,1,1
+Uttar Pradesh,AZAMGARH,2008,Rabi       ,Maize,6,16
+Uttar Pradesh,AZAMGARH,2008,Rabi       ,Masoor,101,119
+Uttar Pradesh,AZAMGARH,2008,Rabi       ,Onion,99,1160
+Uttar Pradesh,AZAMGARH,2008,Rabi       ,Peas & beans (Pulses),7397,9291
+Uttar Pradesh,AZAMGARH,2008,Rabi       ,Potato,5845,114714
+Uttar Pradesh,AZAMGARH,2008,Rabi       ,Rapeseed &Mustard,1746,1975
+Uttar Pradesh,AZAMGARH,2008,Rabi       ,Tobacco,63,329
+Uttar Pradesh,AZAMGARH,2008,Rabi       ,Wheat,231715,632582
+Uttar Pradesh,AZAMGARH,2008,Summer     ,Banana,1,38
+Uttar Pradesh,AZAMGARH,2008,Summer     ,Maize,393,588
+Uttar Pradesh,AZAMGARH,2008,Summer     ,Moong(Green Gram),52,39
+Uttar Pradesh,AZAMGARH,2008,Summer     ,Sunflower,9,17
+Uttar Pradesh,AZAMGARH,2008,Summer     ,Urad,138,86
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Arhar/Tur,8796,7277
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Bajra,67,114
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Dry chillies,21,19
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Groundnut,90,61
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Guar seed,44,37
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Maize,6397,10395
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Moong(Green Gram),1,
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Rice,190222,332128
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Sannhamp,14,3
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Sesamum,57,6
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Small millets,37,18
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Sugarcane,18820,812121
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Sweet potato,21,286
+Uttar Pradesh,AZAMGARH,2009,Kharif     ,Urad,257,98
+Uttar Pradesh,AZAMGARH,2009,Rabi       ,Barley,3871,8699
+Uttar Pradesh,AZAMGARH,2009,Rabi       ,Coriander,60,34
+Uttar Pradesh,AZAMGARH,2009,Rabi       ,Garlic,28,149
+Uttar Pradesh,AZAMGARH,2009,Rabi       ,Gram,4084,4212
+Uttar Pradesh,AZAMGARH,2009,Rabi       ,Linseed,5,2
+Uttar Pradesh,AZAMGARH,2009,Rabi       ,Maize,9,27
+Uttar Pradesh,AZAMGARH,2009,Rabi       ,Masoor,128,135
+Uttar Pradesh,AZAMGARH,2009,Rabi       ,Onion,119,2044
+Uttar Pradesh,AZAMGARH,2009,Rabi       ,Peas & beans (Pulses),7259,8777
+Uttar Pradesh,AZAMGARH,2009,Rabi       ,Potato,5386,130282
+Uttar Pradesh,AZAMGARH,2009,Rabi       ,Rapeseed &Mustard,1651,1842
+Uttar Pradesh,AZAMGARH,2009,Rabi       ,Tobacco,97,556
+Uttar Pradesh,AZAMGARH,2009,Rabi       ,Turmeric,7,23
+Uttar Pradesh,AZAMGARH,2009,Rabi       ,Wheat,234688,607136
+Uttar Pradesh,AZAMGARH,2009,Summer     ,Banana,2,82
+Uttar Pradesh,AZAMGARH,2009,Summer     ,Maize,321,467
+Uttar Pradesh,AZAMGARH,2009,Summer     ,Moong(Green Gram),37,27
+Uttar Pradesh,AZAMGARH,2009,Summer     ,Onion,689,5291
+Uttar Pradesh,AZAMGARH,2009,Summer     ,Sunflower,23,51
+Uttar Pradesh,AZAMGARH,2009,Summer     ,Tobacco,1,4
+Uttar Pradesh,AZAMGARH,2009,Summer     ,Urad,170,105
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Arhar/Tur,8678,6892
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Bajra,144,139
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Dry chillies,18,16
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Dry ginger,2,5
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Groundnut,41,40
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Guar seed,29,24
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Jowar,3,3
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Maize,6781,10172
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Moong(Green Gram),2,1
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Rice,203577,417536
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Sannhamp,43,14
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Sesamum,96,19
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Small millets,14,10
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Sugarcane,19204,854808
+Uttar Pradesh,AZAMGARH,2010,Kharif     ,Urad,211,142
+Uttar Pradesh,AZAMGARH,2010,Rabi       ,Barley,3616,9449
+Uttar Pradesh,AZAMGARH,2010,Rabi       ,Gram,3584,4287
+Uttar Pradesh,AZAMGARH,2010,Rabi       ,Maize,2,6
+Uttar Pradesh,AZAMGARH,2010,Rabi       ,Masoor,256,281
+Uttar Pradesh,AZAMGARH,2010,Rabi       ,Onion,86,1583
+Uttar Pradesh,AZAMGARH,2010,Rabi       ,Peas & beans (Pulses),7033,8925
+Uttar Pradesh,AZAMGARH,2010,Rabi       ,Potato,5624,167404
+Uttar Pradesh,AZAMGARH,2010,Rabi       ,Rapeseed &Mustard,1947,2329
+Uttar Pradesh,AZAMGARH,2010,Rabi       ,Tobacco,160,812
+Uttar Pradesh,AZAMGARH,2010,Rabi       ,Wheat,232647,650714
+Uttar Pradesh,AZAMGARH,2010,Summer     ,Maize,240,352
+Uttar Pradesh,AZAMGARH,2010,Summer     ,Moong(Green Gram),71,64
+Uttar Pradesh,AZAMGARH,2010,Summer     ,Rice,1,2
+Uttar Pradesh,AZAMGARH,2010,Summer     ,Sunflower,8,17
+Uttar Pradesh,AZAMGARH,2010,Summer     ,Urad,175,109
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Arhar/Tur,10916,11873
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Bajra,979,1442
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Cotton(lint),3,1
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Dry chillies,35,29
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Dry ginger,2,6
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Groundnut,35,35
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Guar seed,30,24
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Jowar,93,107
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Maize,6489,10953
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Moong(Green Gram),10,4
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Rice,210944,469350
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Sannhamp,39,11
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Sesamum,65,14
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Small millets,7,6
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Sugarcane,20972,1026118
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Sweet potato,22,286
+Uttar Pradesh,AZAMGARH,2011,Kharif     ,Urad,308,206
+Uttar Pradesh,AZAMGARH,2011,Rabi       ,Barley,3026,7191
+Uttar Pradesh,AZAMGARH,2011,Rabi       ,Coriander,50,28
+Uttar Pradesh,AZAMGARH,2011,Rabi       ,Garlic,33,171
+Uttar Pradesh,AZAMGARH,2011,Rabi       ,Gram,3154,4112
+Uttar Pradesh,AZAMGARH,2011,Rabi       ,Linseed,1,1
+Uttar Pradesh,AZAMGARH,2011,Rabi       ,Maize,328,732
+Uttar Pradesh,AZAMGARH,2011,Rabi       ,Masoor,61,80
+Uttar Pradesh,AZAMGARH,2011,Rabi       ,Onion,82,1876
+Uttar Pradesh,AZAMGARH,2011,Rabi       ,Peas & beans (Pulses),6654,9070
+Uttar Pradesh,AZAMGARH,2011,Rabi       ,Potato,5151,140628
+Uttar Pradesh,AZAMGARH,2011,Rabi       ,Rapeseed &Mustard,2053,2338
+Uttar Pradesh,AZAMGARH,2011,Rabi       ,Tobacco,109,569
+Uttar Pradesh,AZAMGARH,2011,Rabi       ,Wheat,230874,667688
+Uttar Pradesh,AZAMGARH,2011,Summer     ,Maize,710,1174
+Uttar Pradesh,AZAMGARH,2011,Summer     ,Moong(Green Gram),53,45
+Uttar Pradesh,AZAMGARH,2011,Summer     ,Onion,546,4417
+Uttar Pradesh,AZAMGARH,2011,Summer     ,Rice,1,2
+Uttar Pradesh,AZAMGARH,2011,Summer     ,Sunflower,9,15
+Uttar Pradesh,AZAMGARH,2011,Summer     ,Urad,175,116
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Arhar/Tur,9223,10096
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Bajra,69,133
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Dry chillies,49,39
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Groundnut,90,89
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Guar seed,47,38
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Jowar,13,19
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Maize,6550,11705
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Moong(Green Gram),2,1
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Rice,210961,453777
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Sannhamp,36,13
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Sesamum,58,11
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Small millets,10,9
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Soyabean,2,3
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Sugarcane,19099,1109652
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Sweet potato,4,52
+Uttar Pradesh,AZAMGARH,2012,Kharif     ,Urad,246,163
+Uttar Pradesh,AZAMGARH,2012,Rabi       ,Barley,3056,7979
+Uttar Pradesh,AZAMGARH,2012,Rabi       ,Coriander,38,21
+Uttar Pradesh,AZAMGARH,2012,Rabi       ,Garlic,31,161
+Uttar Pradesh,AZAMGARH,2012,Rabi       ,Gram,3384,5620
+Uttar Pradesh,AZAMGARH,2012,Rabi       ,Masoor,49,65
+Uttar Pradesh,AZAMGARH,2012,Rabi       ,Onion,66,1518
+Uttar Pradesh,AZAMGARH,2012,Rabi       ,Peas & beans (Pulses),6641,9835
+Uttar Pradesh,AZAMGARH,2012,Rabi       ,Potato,5072,125633
+Uttar Pradesh,AZAMGARH,2012,Rabi       ,Rapeseed &Mustard,2329,2937
+Uttar Pradesh,AZAMGARH,2012,Rabi       ,Tobacco,204,1103
+Uttar Pradesh,AZAMGARH,2012,Rabi       ,Turmeric,1,3
+Uttar Pradesh,AZAMGARH,2012,Rabi       ,Wheat,235690,693636
+Uttar Pradesh,AZAMGARH,2012,Summer     ,Maize,303,560
+Uttar Pradesh,AZAMGARH,2012,Summer     ,Moong(Green Gram),53,43
+Uttar Pradesh,AZAMGARH,2012,Summer     ,Onion,587,5568
+Uttar Pradesh,AZAMGARH,2012,Summer     ,Rice,1,2
+Uttar Pradesh,AZAMGARH,2012,Summer     ,Sunflower,25,19
+Uttar Pradesh,AZAMGARH,2012,Summer     ,Urad,170,118
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Arhar/Tur,8485,6241
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Bajra,116,147
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Dry chillies,7,6
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Groundnut,52,47
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Guar seed,24,20
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Jowar,5,6
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Maize,6516,12823
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Rice,217062,477971
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Sannhamp,43,12
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Sesamum,80,12
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Small millets,12,9
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Sugarcane,19641,1129986
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Sweet potato,2,27
+Uttar Pradesh,AZAMGARH,2013,Kharif     ,Urad,154,69
+Uttar Pradesh,AZAMGARH,2013,Rabi       ,Barley,4032,10110
+Uttar Pradesh,AZAMGARH,2013,Rabi       ,Coriander,40,22
+Uttar Pradesh,AZAMGARH,2013,Rabi       ,Garlic,35,205
+Uttar Pradesh,AZAMGARH,2013,Rabi       ,Gram,3557,2838
+Uttar Pradesh,AZAMGARH,2013,Rabi       ,Linseed,3,1
+Uttar Pradesh,AZAMGARH,2013,Rabi       ,Maize,11,39
+Uttar Pradesh,AZAMGARH,2013,Rabi       ,Masoor,74,86
+Uttar Pradesh,AZAMGARH,2013,Rabi       ,Onion,79,1607
+Uttar Pradesh,AZAMGARH,2013,Rabi       ,Peas & beans (Pulses),5859,3334
+Uttar Pradesh,AZAMGARH,2013,Rabi       ,Potato,4905,48236
+Uttar Pradesh,AZAMGARH,2013,Rabi       ,Rapeseed &Mustard,2210,2245
+Uttar Pradesh,AZAMGARH,2013,Rabi       ,Tobacco,123,677
+Uttar Pradesh,AZAMGARH,2013,Rabi       ,Turmeric,2,6
+Uttar Pradesh,AZAMGARH,2013,Rabi       ,Wheat,232130,718442
+Uttar Pradesh,AZAMGARH,2013,Summer     ,Maize,309,568
+Uttar Pradesh,AZAMGARH,2013,Summer     ,Moong(Green Gram),50,34
+Uttar Pradesh,AZAMGARH,2013,Summer     ,Onion,614,8262
+Uttar Pradesh,AZAMGARH,2013,Summer     ,Sunflower,4,7
+Uttar Pradesh,AZAMGARH,2013,Summer     ,Urad,124,72
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Arhar/Tur,8190,10511
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Bajra,68,135
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Dry chillies,17,14
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Groundnut,62,54
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Guar seed,35,29
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Jowar,4,4
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Maize,6568,12486
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Moong(Green Gram),2,1
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Rice,202341,400028
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Sannhamp,26,10
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Sesamum,71,14
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Small millets,103,78
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Sugarcane,20282,1249533
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Sweet potato,3,37
+Uttar Pradesh,AZAMGARH,2014,Kharif     ,Urad,189,101
+Uttar Pradesh,AZAMGARH,2014,Rabi       ,Barley,2930,3931
+Uttar Pradesh,AZAMGARH,2014,Rabi       ,Coriander,50,24
+Uttar Pradesh,AZAMGARH,2014,Rabi       ,Garlic,64,371
+Uttar Pradesh,AZAMGARH,2014,Rabi       ,Gram,3068,4353
+Uttar Pradesh,AZAMGARH,2014,Rabi       ,Maize,114,170
+Uttar Pradesh,AZAMGARH,2014,Rabi       ,Masoor,69,64
+Uttar Pradesh,AZAMGARH,2014,Rabi       ,Onion,51,780
+Uttar Pradesh,AZAMGARH,2014,Rabi       ,Peas & beans (Pulses),6140,8756
+Uttar Pradesh,AZAMGARH,2014,Rabi       ,Potato,4791,64336
+Uttar Pradesh,AZAMGARH,2014,Rabi       ,Rapeseed &Mustard,2287,1783
+Uttar Pradesh,AZAMGARH,2014,Rabi       ,Tobacco,119,504
+Uttar Pradesh,AZAMGARH,2014,Rabi       ,Turmeric,3,8
+Uttar Pradesh,AZAMGARH,2014,Rabi       ,Wheat,243897,516574
+Uttar Pradesh,AZAMGARH,2014,Summer     ,Maize,309,549
+Uttar Pradesh,AZAMGARH,2014,Summer     ,Moong(Green Gram),54,36
+Uttar Pradesh,AZAMGARH,2014,Summer     ,Onion,554,10615
+Uttar Pradesh,AZAMGARH,2014,Summer     ,Sunflower,26,44
+Uttar Pradesh,AZAMGARH,2014,Summer     ,Urad,97,52
