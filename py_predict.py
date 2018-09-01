@@ -9,7 +9,7 @@ regr=linear_model.LinearRegression()
 regr.fit(x.values.reshape(-1, 1),y.values.reshape(-1,1))
 coeff=regr.coef_
 ar=float(input("\nEnter the value of area: "))
-prod=coeff*ar
-print("Production will be approx: ",prod)
+#prod=coeff*ar
+#print("Production will be approx: ",prod)
 prod2=regr.predict(ar)
 print("Prediction is: ",prod2)
